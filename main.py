@@ -1,0 +1,1 @@
+from my_cripto import app
